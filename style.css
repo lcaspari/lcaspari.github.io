@@ -43,6 +43,13 @@ h2 {
   margin-top: 0;
 }
 
+h3 {
+  margin-top: 0.3rem;
+  color: #555;
+  font-weight: normal;
+  font-style: italic;
+}
+
 .motivation {
   font-style: italic;
   margin: 0.5rem 0 1rem 0;
